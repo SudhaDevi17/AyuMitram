@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+bun.lock
+
+# Production builds
+dist/
+build/
+coverage/
+
+# Environment and Secret Files (Strictly Ignored)
+.env*
+!.env.example
+*.pem
+*.key
+*.crt
+*.pfx
+*.p12
+*.cer
+*.id_rsa
+*credentials*.json
+*credential*.json
+service-account*.json
+client_secret*.json
+
+# OS and Editor Artifacts
+.DS_Store
+*.log
+.vscode/
+.idea/
+
+# Internal Tooling Artifacts
+.aistudio/

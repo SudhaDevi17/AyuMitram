@@ -1,0 +1,6 @@
+{
+  "name": "Ayu Mitram - AI Care Layer for 50+ Elders",
+  "description": "Decentralized AI Care & Government Welfare Navigator for 50+ Senior Citizens in India (ABDM, Ayushman Bharat Vaya Vandana, Jan Aushadhi & Family Care).",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
