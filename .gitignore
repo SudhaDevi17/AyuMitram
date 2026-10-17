@@ -6,6 +6,7 @@ bun.lock
 dist/
 build/
 coverage/
+*.bundle
 
 # Environment and Secret Files (Strictly Ignored)
 .env*
